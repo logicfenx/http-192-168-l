@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/http-192-168-l",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a http-192-168-l",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/http-192-168-l.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://wbt.link/http-192-168-l-254/"
+    },
+    "homepage": "https://wbt.link/http-192-168-l-254/"
+}
